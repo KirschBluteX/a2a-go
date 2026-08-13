@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.4.1](https://github.com/a2aproject/a2a-go/compare/v2.4.0...v2.4.1) (2026-08-13)
+
+
+### Bug Fixes
+
+* handle negative historyLength as empty history request ([#393](https://github.com/a2aproject/a2a-go/issues/393)) ([f4d5882](https://github.com/a2aproject/a2a-go/commit/f4d588216b0c9520e94d571bab725c38ce23064c))
+* remove empty contextId check in proto converter ([#392](https://github.com/a2aproject/a2a-go/issues/392)) ([758c7a1](https://github.com/a2aproject/a2a-go/commit/758c7a13a657441c003d1b05a665c2c84b5ca7ac))
+
+
+### Documentation
+
+* **security:** use GitHub Security Advisories for reporting ([#388](https://github.com/a2aproject/a2a-go/issues/388)) ([dda32ac](https://github.com/a2aproject/a2a-go/commit/dda32acd9e7602c0414ef05b580730cb83d10906))
+
 ## [2.4.0](https://github.com/a2aproject/a2a-go/compare/v2.3.1...v2.4.0) (2026-07-28)
 
 
